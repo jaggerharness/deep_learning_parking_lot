@@ -4,12 +4,11 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter mobile application that can be run multiplatform on both android and ios devices. The app receives information from a server implemented
+using Node.js that contains information detailing where in a parking lot available parking spaces are. The information about the parking lots is recieved from a
+raspberry pi microcomputer with attached camera module. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The mobile app portion was created to give users functionality and easy access to information that will assist in their parking experience. 
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
