@@ -10,6 +10,8 @@ raspberry pi microcomputer with attached camera module.
 
 The mobile app portion was created to give users functionality and easy access to information that will assist in their parking experience. 
 
+To view code that utilizes machine learning algorithms with the help of tensorflow lite, view this repo: jaggerharness/smart_parking_lot_classifier 
+
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
